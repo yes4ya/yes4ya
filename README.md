@@ -1,7 +1,8 @@
 <div align="center">
 
-# Halo, saya Yesaya Roy Nugraha
-### Frontend Developer & UI/UX Designer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+%26+UI%2FX+Designer;Crafting+Clean+Interfaces+%26+Interactions;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yes4ya&color=0f172a&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -10,11 +11,6 @@
 </p>
 
 </div>
-
----
-
-### Eksplorasi Saya
-Membangun antarmuka web bukan sekadar menulis kode, melainkan menerjemahkan ide menjadi pengalaman yang mengalir. Saya gemar mengulik detail tipografi, transisi gerak yang presisi, dan performa yang terasa ringan di tangan pengguna. Saat ini, saya fokus mendalami ekosistem React dan Tailwind CSS untuk menciptakan produk digital yang bukan cuma berfungsi, tapi juga punya karakter.
 
 ---
 
