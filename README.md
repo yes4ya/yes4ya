@@ -13,8 +13,8 @@
 
 ---
 
-### Tentang Saya
-Frontend Developer dan UI/UX Designer yang berfokus pada pembuatan antarmuka web yang bersih, cepat, presisi secara visual, dan nyaman digunakan (*user-centric*). Memiliki pengalaman langsung dalam pengembangan aplikasi web modern menggunakan ekosistem JavaScript, React, dan Tailwind CSS.
+### Eksplorasi Saya
+Membangun antarmuka web bukan sekadar menulis kode, melainkan menerjemahkan ide menjadi pengalaman yang mengalir. Saya gemar mengulik detail tipografi, transisi gerak yang presisi, dan performa yang terasa ringan di tangan pengguna. Saat ini, saya fokus mendalami ekosistem React dan Tailwind CSS untuk menciptakan produk digital yang bukan cuma berfungsi, tapi juga punya karakter.
 
 ---
 
