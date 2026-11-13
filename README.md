@@ -26,14 +26,15 @@ Frontend Developer dan UI/UX Designer yang berfokus pada pembuatan antarmuka web
 ---
 
 ### Statistik GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yes4ya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yes4ya&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://streak-stats.demolab.com/?user=yes4ya&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" width="98%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yes4ya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yes4ya&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yes4ya&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
+</p>
 
 ---
 
