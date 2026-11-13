@@ -25,15 +25,10 @@ Frontend Developer dan UI/UX Designer yang berfokus pada pembuatan antarmuka web
 
 ---
 
-### Statistik GitHub
+### Statistik & Aktivitas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yes4ya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yes4ya&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yes4ya&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI/UX-6366f1?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
 </p>
 
 ---
