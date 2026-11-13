@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+%26+UI%2FUX+Designer;Crafting+Clean+Interfaces+%26+Interactions;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+%26+UI%2FX+Designer;Crafting+Clean+Interfaces+%26+Interactions;Building+Modern+Web+Experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@
 
 ---
 
-### Statistik & Aktivitas
+### Status & Focus
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Developer-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI/UX-059669?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI%2FUX-059669?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
 </p>
 
 ---
