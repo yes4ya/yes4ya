@@ -29,7 +29,16 @@
 
 ---
 
-### Kontak
-- **Email:** yesayaroynugraha@gmail.com
-- **Lokasi:** Salatiga, Indonesia
-- **Portofolio:** [yes4ya.github.io/Portofolio](https://github.com/yes4ya/Portofolio)
+### Let us Connect
+<p align="center">
+  <a href="mailto:yesayaroynugraha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yesayaroynugraha@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yesayaroynugraha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yesaya%20Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/yes4ya">
+    <img src="https://img.shields.io/badge/GitHub-yes4ya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Salatiga%2C%20ID-059669?style=for-the-badge&logo=mappin&logoColor=white" alt="Location" />
+</p>
